@@ -1,4 +1,4 @@
-# writeups
+# Web writeups
 ### Web Writeups for bug bounty and pentesting
 #### Twitter Accounts also included.(Will Add more)
 #### Available in File in Github as well as in PasteBin:
